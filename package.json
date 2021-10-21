@@ -1,0 +1,11 @@
+{
+  "name": "hookemcoin",
+  "version": "1.0.0",
+  "description": "Hook em!",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC"
+}
